@@ -42,7 +42,7 @@ This software includes mouse emulation features requiring a specific version of 
 
 ## Installation
 1. **Download:**
-   - Download the latest release from the [Releases section](#).
+   - Download the latest release from the [Releases section](https://github.com/BoranCanOzel/bf1-external/releases).
    
 2. **Extract:**
    - Extract the contents of the downloaded file to a location of your choice.
