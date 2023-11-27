@@ -1,0 +1,34 @@
+﻿  customed.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\Config\Config.h(19,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Mouse.cpp
+  overlay.cpp
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\Config\Config.h(19,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\NotSDK.h(133,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\NotSDK.h(134,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\NotSDK.h(139,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\NotSDK.h(140,40): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\NotSDK.h(174,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\NotSDK.h(175,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\NotSDK.h(180,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\NotSDK.h(181,40): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\overlay.cpp(155,59): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\overlay.cpp(196,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\overlay.cpp(206,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\overlay.cpp(210,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\overlay.cpp(210,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Config.cpp
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\Config\Config.h(19,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Memory.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1714 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  R5Reloaded_External.vcxproj -> C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\x64\Release\BF1_External.exe

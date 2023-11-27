@@ -1,0 +1,28 @@
+﻿  customed.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string_view(13): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+  overlay.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string_view(13): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\NotSDK.h(133,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\NotSDK.h(134,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\NotSDK.h(139,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\NotSDK.h(140,40): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\NotSDK.h(174,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\NotSDK.h(175,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\NotSDK.h(180,39): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\Utils\NotSDK.h(181,40): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\overlay.cpp(125,59): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\overlay.cpp(149,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\R5Reloaded_External\overlay.cpp(149,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Config.cpp
+  Memory.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\string_view(13): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+  Generating Code...
+  R5Reloaded_External.vcxproj -> C:\Users\PythonP\Desktop\Battlefield1_ShitExternalESP-main\BF1-External\x64\Debug\BF1_External.exe
