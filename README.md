@@ -55,5 +55,3 @@ This software includes mouse emulation features requiring a specific version of 
    
 5. **Activate:**
    - Press the "Delete" key to activate the menu and customize features.
-
-*Feel free to copy and share this readme to ensure a smooth experience for all users.*
