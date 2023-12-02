@@ -1,57 +1,50 @@
 # External Memory Reading Software
 
-**Disclaimer:**
-*Note: While I typically refrain from releasing tools of this nature, given the current state of the game, I've decided to make an exception and share this software with the community.*
+## :warning: Disclaimer
+*While I typically refrain from releasing tools of this nature, given the current state of the game, I've decided to make an exception and share this software with the community.*
 
-## Features
-- **BOX:** Display boxes around players or objects for improved visibility.
-- **Line:** Draw lines to connect players or objects, enhancing spatial awareness.
-- **Healthbar:** Visualize player or entity health through a graphical representation.
-- **Distance:** Show the distance between you and specific targets.
-- **Aimlock:** Assist your aiming by automatically locking onto targets.
-- **FOV Circle:** Display the Aimlock threshold with a Field of View (FOV) circle.
-- **Name:** Quickly identify players or entities with displayed names.
+## :sparkles: Features Overview
+Enhance your gaming experience with various features:
+- **BOX:** Displays boxes around players or objects for improved visibility.
+- **Line:** Draws lines connecting players or objects to enhance spatial awareness.
+- **Healthbar:** Shows a graphical representation of player or entity health.
+- **Distance:** Displays the distance between you and specific targets.
+- **Aimlock:** Assists your aiming by automatically locking onto targets.
+- **FOV Circle:** Indicates the Aimlock threshold with a Field of View circle.
+- **Name:** Identifies players or entities with displayed names.
 
-## Mouse Emulation Setup
-This software includes mouse emulation features requiring a specific version of the Logitech GHUB driver. Follow these steps for proper setup:
+## :gear: Mouse Emulation Setup
+Follow these steps for mouse emulation setup:
 
 1. **Download GHUB Driver:**
-   - Download the required Logitech GHUB driver version [from this link](https://www.pythonp.xyz/ghub).
-   
+   - Get the required Logitech GHUB driver version [here](https://www.pythonp.xyz/ghub).
+
 2. **Disable Auto-Update:**
-   - To prevent automatic updates, use the provided batch file. Place "disable_internet.bat" in the GHUB installation directory and run it to add a firewall rule, disabling internet access for all executables in that directory.
+   - Use "disable_internet.bat" to block automatic updates:
      ```bash
-     # Example:
      cd path/to/ghub/installation
      disable_internet.bat
      ```
-   - *Note: This step is a one-time requirement.*
+     This action adds a firewall rule to restrict internet access for executables in the GHUB directory. (One-time setup)
 
-## Usage
+## :video_game: Usage Guide
 - **Menu Key:**
-  - Press the "Delete" key to access the software menu.
-  
+  - Press "Delete" to open the software menu.
 - **Navigation:**
-  - Use arrow keys or your mouse to navigate through the menu options.
-  
+  - Use arrow keys or the mouse for menu navigation.
 - **Toggle Features:**
-  - Enable or disable specific features by selecting them in the menu.
-  
+  - Enable or disable features from the menu.
 - **Customization:**
-  - Some features may have customizable settings. Refer to the menu for configuration options.
+  - Configure settings for specific features as needed.
 
-## Installation
+## :hammer_and_wrench: Installation Steps
 1. **Download:**
-   - Download the latest release from the [Releases section](https://github.com/BoranCanOzel/bf1-external/releases).
-   
+   - Obtain the latest release from the [Releases section](https://github.com/BoranCanOzel/bf1-external/releases).
 2. **Extract:**
-   - Extract the contents of the downloaded file to a location of your choice.
-   
+   - Unzip the file to a desired location.
 3. **Run:**
-   - Run the executable file.
-   
-4. **Launch the Game:**
-   - Launch the supported game.
-   
+   - Start the executable file.
+4. **Launch Game:**
+   - Open the supported game.
 5. **Activate:**
-   - Press the "Delete" key to activate the menu and customize features.
+   - Use "Delete" to activate the menu and customize features.
