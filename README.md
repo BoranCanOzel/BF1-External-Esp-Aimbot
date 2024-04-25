@@ -1,7 +1,7 @@
 # External Memory Reading Software
 <p align="center">
   <img src="Images/1.jpeg" height="200" style="object-fit: contain; margin: 5px;" />
-  <img src="Images/3.jpeg" height="200" style="object-fit: contain; margin: 5px;" />
+  <img src="Images/2.jpeg" height="200" style="object-fit: contain; margin: 5px;" />
   <img src="Images/4.jpeg" height="200" style="object-fit: contain; margin: 5px;" />
 </p>
 
