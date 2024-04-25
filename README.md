@@ -1,10 +1,9 @@
 # External Memory Reading Software
 <p align="center">
-  <img src="Images/1.jpeg" width="30%" />
-  <img src="Images/3.jpeg" width="30%" />
-  <img src="Images/4.jpeg" width="30%" />
+  <img src="Images/1.jpeg" height="200" style="object-fit: contain; margin: 5px;" />
+  <img src="Images/3.jpeg" height="200" style="object-fit: contain; margin: 5px;" />
+  <img src="Images/4.jpeg" height="200" style="object-fit: contain; margin: 5px;" />
 </p>
-
 
 ## :warning: Disclaimer
 *While I typically refrain from releasing tools of this nature, given the current state of the game, I've decided to make an exception and share this software with the community.*
